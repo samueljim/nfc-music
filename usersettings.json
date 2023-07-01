@@ -1,6 +1,6 @@
 {
   "sonos_http_api": "http://127.0.0.1:5005",
-  "sonos_room": "TV Speakers",
+  "sonos_room": "TV%20Speakers",
   "group_with": ["Kitchen"],
   "reset_repeat": true,
   "reset_shuffle": true,
